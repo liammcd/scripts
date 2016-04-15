@@ -1,3 +1,5 @@
 # Scripts
-# imget - downloads all the images of supplied imgur album/gallery
-# 4chget - retrieves images from a 4chan thread
+## imget.sh
+* Downloads all images from the supplied imgur album/gallery
+## 4chget.sh
+* Downloads all images from a 4chan thread
