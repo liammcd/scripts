@@ -4,3 +4,6 @@
 
 ## 4chget.sh
 * Downloads all images from a 4chan thread
+
+## rename.sh
+* Bulk rename mp3 files to the id3 title. Requires id3info
